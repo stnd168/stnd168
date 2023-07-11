@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Pei-Yu.
 
 <!--
 **stnd168/stnd168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:mortar_board: I am studying for my master’s degree in Biomechatronic Engineering at NTU.
+:book: I’m currently learning digital image processing, machine learning, and deep learning.
